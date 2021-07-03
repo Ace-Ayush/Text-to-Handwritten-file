@@ -1,0 +1,16 @@
+|       ~HELLO  MY  NAME  IS  AYUSH~
+|       Bonjour  je  m'appelle Ayush
+Plain  text  is  by  default  in  blue  color  
+~Enclosing  text  between  two  tilde  will  make  it  black~
+|Having  a  dollar  symbol  doesn't  strip  leading  white  spaces
+|~Can  also  combine  the  ^  and  hash  to  
+get  indented  text  in  blackcolor~  
+
+~While  printout  46th  character  of  the  line  
+will  shift  to  next  line  in  portrait~
+New  line  will  start  from  75th  word  of  last  line
+
+~Positive thinking~
+Positive thinking is a reflexive attitude developed or imbibed overtime that pushes you to expect fair and desired results. The power of positivity is to create, reinforce, and transform energy into reality with the mindset to seek a healthy and happy ending regardless of the situation.
+
+Positive thinking leads an individual to success as they develop an attitude that helps them think that they can achieve the things and not be fettered by the problems that cross paths with success. Positive thinking is achieved through determination, perseverance, self-confidence, and hard work.
