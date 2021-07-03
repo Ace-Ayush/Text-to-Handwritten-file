@@ -4,7 +4,7 @@
 Plain  text  is  by  default  in  blue  color  
 ~Enclosing  text  between  two  tilde  will  make  it  black~
 |Having  a  dollar  symbol  doesn't  strip  leading  white  spaces
-|~Can  also  combine  the  ^  and  hash  to  
+|~Can  also  combine  the  ~  and  hash  to  
 get  indented  text  in  blackcolor~  
 
 While  printout  46th  character  of  the  line  
